@@ -1,0 +1,7 @@
+test_branch_1.txt
+
+test_branch_1 branch를 만들고 test commit을 날리는 부분.
+
+main == init commit
+
+test_branch_1 == test_branch_1 commit 1
