@@ -6,4 +6,17 @@ main == init commit -> main commit 1
 
 test_branch_1 == test_branch_1 commit 1
 
-total = init -> test_branch_1 1 -> main 1
+total == init -> test_branch_1 1 -> main 1
+
+=====
+After test_branch_1 commit 2
+
+main == init commit -> main commit 1 -> main commit 2
+
+test_branch == test_branch_1 commit 1 -> test_branch_1 commit 2
+
+total == init -> test_branch_1 1 -> main 1 -> test_branch_1 2 -> main 2
+
+
+이번 커밋 후에 PR로 merge를 할 예정.
+merge후에 main 커밋이 어떻게 진행되는지 체크.
