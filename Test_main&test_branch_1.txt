@@ -1,0 +1,9 @@
+main 과 test_branch_1 사이
+
+설명은 생략하고 커밋 진행도만 표시.
+
+main == init commit -> main commit 1
+
+test_branch_1 == test_branch_1 commit 1
+
+total = init -> test_branch_1 1 -> main 1
