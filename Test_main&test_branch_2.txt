@@ -1,0 +1,6 @@
+test_branch_2 부분.
+
+main 1개 후 branch에서 2개 푸시 한 후 main 2 후 merge 진행
+예상은 병합 후 main 1 -> branch 1 -> branch 2 -> main 2 -> merge commit.
+
+main commit 1

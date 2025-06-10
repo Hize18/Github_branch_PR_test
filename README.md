@@ -14,9 +14,9 @@ test/목적_[num]
 커밋 방식은<br>
 main의 경우 
 ```aiignore
-main commit [num]
+[테스트 진행하는 브랜치 명] - main commit [num]
 ```
 branch의 경우
 ```aiignore
-[branch의 name] commit [num]
+[테스트 진행하는 브랜치 명] - [branch의 name] commit [num]
 ```
