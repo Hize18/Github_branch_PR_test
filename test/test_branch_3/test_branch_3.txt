@@ -5,3 +5,9 @@ test_branch에서 2개의 커밋을 푸시한 다음 rebase 진행
 
 현재 상황
 main 1 -> test_branch 1
+
+---
+추가로 test_branch에서 1개의 커밋 진행 후 PR로 rebase 진행.
+
+현재 상황
+main 1 -> test_branch 1 -> test_branch 2
