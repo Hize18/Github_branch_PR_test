@@ -1,0 +1,7 @@
+test_branch_3
+
+현재 main에서 커밋을 1개 진행한 상황.
+test_branch에서 2개의 커밋을 푸시한 다음 rebase 진행
+
+현재 상황
+main 1 -> test_branch 1
