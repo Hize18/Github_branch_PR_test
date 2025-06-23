@@ -5,3 +5,11 @@ test_branch_4는 rebase를 진행하는데
 저번 test_branch_3과 다른점은 branch에서 커밋을 진행한 후 main에서 커밋을 진행한 후 branch 커밋 후 PR.
 
 순서는 main -> branch 생성 & branch 커밋 -> main -> branch -> PR
+
+----
+
+main -> branch 인 상황
+
+여기에 main에서 커밋 진행
+
+main -> branch -> main 순서
