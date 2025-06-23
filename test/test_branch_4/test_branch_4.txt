@@ -3,3 +3,9 @@ test_branch_4
 main 커밋 후 branch에서 커밋 하는 상황
 
 main -> branch
+
+---
+
+main -> branch -> main 인 상황
+
+여기에 branch에서 commit and push후 PR로 rebase 진행.
